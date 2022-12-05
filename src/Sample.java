@@ -8,6 +8,7 @@ public class Sample {
         {
             //Commit for webhooks 2
             System.out.println("Hello World");
+            System.out.println("Webhook test");
         }
     }
 }
